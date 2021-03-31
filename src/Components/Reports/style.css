@@ -1,0 +1,18 @@
+.ant-card {
+    margin-left: 20% !important;
+    width: 60% !important;
+}
+.titleCard{
+    font-size: x-large;
+    font-weight: bold;
+    text-align: left;
+    margin-left: 21%;
+    margin-bottom: 10px !important;
+}
+.ant-card-head-title{
+    font-size: large;
+    font-weight: bold !important;
+}
+.ant-card-grid {
+    height: 425px;
+}

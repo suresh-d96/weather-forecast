@@ -1,0 +1,4 @@
+.ant-form-item-label > label {
+    font-weight: bold !important;
+    font-size: large !important;
+}
